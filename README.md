@@ -1,5 +1,5 @@
 # SpeakerTravel
 
-**SpeakerTravel** is a platform that helps conference speakers manage their travel arrangements — from booking flights and hotels to tracking reimbursements — all in one place.
+**SpeakerTravel** is a platform that helps conferences organize and book travel for their speakers. Speakers can manage their own flights and trains with SpeakerTravel.
 
 👉 Visit the product page at **[https://speaker.travel](https://speaker.travel)**
